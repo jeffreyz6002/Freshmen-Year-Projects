@@ -11,7 +11,7 @@ These assignments and programming projects were given to students that utilizes 
  - This assignment is a simulator that uses a BooleanSource, which is used to create a probability of whether an event will happen. These events are kept track of with a queue for each individual elevator.
  
 ### Playlist Operations
- - This assignment utlizes a self-implemented queue to display desired songs to be played in order. This program functions much like an audio player where the user can search songs via categories.
+ - This assignment utlizes an array to display desired songs to be played in order. This program functions much like an audio player where the user can search songs via categories.
 
 ### Search Tree
  - This assignment uses File and Scanner class to self implement a tree. This can can be read in preorder traversal and can traversed downward based on the decisions made by the user. 
